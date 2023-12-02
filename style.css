@@ -15,6 +15,9 @@ img{
     right: 0px;
     padding: 150px;
 }
+.novbar :hover{
+    color: blue;
+}
 .novbar{
     text-align: justify;
 }
